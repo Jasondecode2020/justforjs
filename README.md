@@ -8,3 +8,4 @@ Build an App for fun
 ## 4 git add -A
 ## 5 git commit -m "comment"
 ## 6 git push origin main
+## 7 merged and add some node.js
