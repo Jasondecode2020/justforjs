@@ -10,4 +10,6 @@ Build an App for fun
 ## 6 git push origin main
 ## 7 merged and add some node.js
 ## 7 git checkout -b clear: branch to clear function
-## git branch: goto clear branch
+## 8 git branch: goto clear branch
+## 9 git push origin clear
+## 10 git lecture: https://www.youtube.com/watch?v=_NKNFFxOXNw
