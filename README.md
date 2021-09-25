@@ -9,3 +9,4 @@ Build an App for fun
 ## 5 git commit -m "comment"
 ## 6 git push origin main
 ## 7 merged and add some node.js
+## 7 git checkout -b clear: branch to clear function
