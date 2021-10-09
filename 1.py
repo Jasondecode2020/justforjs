@@ -14,7 +14,7 @@
 # pre = pre[:-1]
 # print(pre)
 
-
+'''
 import sys
 # there is one number
 n = int(sys.stdin.readline().strip())
@@ -28,3 +28,7 @@ for i in range(n):
   line = sys.stdin.readline().strip()
   values = list(map(int, line.split()))
   print(values)
+  '''
+
+a = ord('0')
+print(a)
