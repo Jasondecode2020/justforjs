@@ -1,0 +1,21 @@
+Listening for incoming packets on UDP port 47371
+Sending timesync packets on UDP port 3000
+Exit application by pressing (CTRL-C)
+cm, RSSI mV: 156
+cm, RSSI mV: 156
+cm, RSSI mV: 156
+cm, RSSI mV: 150
+cm, RSSI mV: 147
+cm, RSSI mV: 156
+cm, RSSI mV: 150
+cm, RSSI mV: 150
+cm, RSSI mV: 150
+cm, RSSI mV: 150
+cm, RSSI mV: 150
+cm, RSSI mV: 150
+cm, RSSI mV: 150
+cm, RSSI mV: 150
+cm, RSSI mV: 150
+cm, RSSI mV: 150
+cm, RSSI mV: 153
+Keyboard interrupt received. Exiting.
